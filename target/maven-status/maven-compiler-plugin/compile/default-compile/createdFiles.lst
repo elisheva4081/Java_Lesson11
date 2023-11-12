@@ -1,0 +1,5 @@
+servlets\WinServlet.class
+Util\GameUtil.class
+com\mycompany\lesson11_2\servlets\resources\JakartaEE10Resource.class
+com\mycompany\lesson11_2\servlets\JakartaRestConfiguration.class
+servlets\GameServlet.class
